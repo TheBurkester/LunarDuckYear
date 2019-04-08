@@ -1,23 +1,14 @@
 fileFormatVersion: 2
-guid: eba22f30bda39424f90060f20c784a38
+guid: 3f6dc70a8b88c1342962b94f2bd3c674
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
-    100002: pasted__group9_pasted__group8_pasted__pasted__pCube4
-    100004: pasted__group11
-    100006: pasted__pasted__group9_pasted__group8_pasted__pasted__pCube4
     400000: //RootNode
-    400002: pasted__group9_pasted__group8_pasted__pasted__pCube4
-    400004: pasted__group11
-    400006: pasted__pasted__group9_pasted__group8_pasted__pasted__pCube4
     2100000: lambert1
-    2300000: pasted__group9_pasted__group8_pasted__pasted__pCube4
-    2300002: pasted__pasted__group9_pasted__group8_pasted__pasted__pCube4
-    3300000: pasted__group9_pasted__group8_pasted__pasted__pCube4
-    3300002: pasted__pasted__group9_pasted__group8_pasted__pasted__pCube4
-    4300000: pasted__group9_pasted__group8_pasted__pasted__pCube4
-    4300002: pasted__pasted__group9_pasted__group8_pasted__pasted__pCube4
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: pCube1
   externalObjects: {}
   materials:
     importMaterials: 1
