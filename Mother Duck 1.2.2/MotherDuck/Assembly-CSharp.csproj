@@ -168,7 +168,7 @@
     <None Include="Assets\3rdPartyAssets\ProCore\ProBuilder\Shader\UnlitSolidColor.shader" />
     <None Include="Assets\PostProcessing\Resources\Shaders\Uber.shader" />
     <None Include="Assets\3rdPartyAssets\ShaderForge\Example Assets\Shaders\Vegetation.shader" />
-    <None Include="Assets\3rdPartyAssets\ProCore\ProBuilder\Shader\pb_StandardVertexColor.shader" />
+    <None Include="Assets\3rdPartyAssets\ProCore\ProBuilder\Shader\pb_ReferenceUnlit.shader" />
     <None Include="Assets\3rdPartyAssets\ShaderForge\Example Assets\Shaders\VertexAnimation.shader" />
     <None Include="Assets\PostProcessing\Resources\Shaders\Blit.shader" />
     <None Include="Assets\PostProcessing\Editor Resources\Monitors\WaveformRender.shader" />
@@ -177,6 +177,7 @@
     <None Include="Assets\PostProcessing\Resources\Shaders\MotionBlur.shader" />
     <None Include="Assets\3rdPartyAssets\ProCore\ProBuilder\Shader\DiffuseTextureBlend.shader" />
     <None Include="Assets\PostProcessing\Resources\Shaders\AmbientOcclusion.shader" />
+    <None Include="Assets\3rdPartyAssets\ProCore\ProBuilder\Shader\pb_StandardVertexColor.shader" />
     <None Include="Assets\MotherDuck\Shaders\Flag.shader" />
     <None Include="Assets\3rdPartyAssets\ShaderForge\Example Assets\Shaders\Refraction.shader" />
     <None Include="Assets\3rdPartyAssets\ProCore\ProBuilder\Shader\pb_VertexPicker.shader" />
@@ -184,6 +185,7 @@
     <None Include="Assets\PostProcessing\Resources\Bluenoise64\LICENSE.txt" />
     <None Include="Assets\PostProcessing\Resources\Shaders\BuiltinDebugViews.shader" />
     <None Include="Assets\3rdPartyAssets\ShaderForge\Example Assets\Shaders\Parallax.shader" />
+    <None Include="Assets\3rdPartyAssets\ProCore\ProBuilder\About\ThirdPartyLicenses.txt" />
     <None Include="Assets\PostProcessing\Resources\Shaders\Common.cginc" />
     <None Include="Assets\MotherDuck\Shaders\Water.shader" />
     <None Include="Assets\PostProcessing\Resources\Bluenoise64\COPYING.txt" />
@@ -195,6 +197,7 @@
     <None Include="Assets\MotherDuck\Shaders\WaterRipples.shader" />
     <None Include="Assets\PostProcessing\Resources\Shaders\Bloom.cginc" />
     <None Include="Assets\MotherDuck\Shaders\FlagBase.shader" />
+    <None Include="Assets\3rdPartyAssets\ProCore\ProBuilder\About\Font\SIL Open Font License.txt" />
     <None Include="Assets\PostProcessing\Resources\Shaders\TAA.shader" />
     <None Include="Assets\PostProcessing\Resources\Shaders\EyeHistogram.compute" />
     <None Include="Assets\PostProcessing\Resources\Shaders\TAA.cginc" />
@@ -210,15 +213,18 @@
     <None Include="Assets\PostProcessing\Resources\Shaders\ScreenSpaceRaytrace.cginc" />
     <None Include="Assets\3rdPartyAssets\ProCore\ProBuilder\Shader\pb_VertexShader.shader" />
     <None Include="Assets\3rdPartyAssets\ShaderForge\Example Assets\Shaders\Tiles.shader" />
+    <None Include="Assets\3rdPartyAssets\ProCore\ProBuilder\Shader\pb_NormalPreview.shader" />
     <None Include="Assets\PostProcessing\Resources\Shaders\Bloom.shader" />
     <None Include="Assets\3rdPartyAssets\ShaderForge\Example Assets\Shaders\PixelRotator.shader" />
     <None Include="Assets\3rdPartyAssets\ShaderForge\Example Assets\Shaders\CustomLighting.shader" />
     <None Include="Assets\PostProcessing\Editor Resources\Monitors\VectorscopeRender.shader" />
     <None Include="Assets\PostProcessing\Resources\Shaders\EyeAdaptation.shader" />
+    <None Include="Assets\3rdPartyAssets\ProCore\ProBuilder\Shader\pb_ScrollHighlight.shader" />
     <None Include="Assets\3rdPartyAssets\ProCore\ProBuilder\readme.txt" />
     <None Include="Assets\PostProcessing\Resources\Shaders\ColorGrading.cginc" />
     <None Include="Assets\PostProcessing\Resources\Shaders\AmbientOcclusion.cginc" />
     <None Include="Assets\PostProcessing\Editor Resources\Monitors\WaveformCompute.compute" />
+    <None Include="Assets\3rdPartyAssets\ProCore\ProBuilder\Shader\pb_SmoothingPreview.shader" />
     <None Include="Assets\3rdPartyAssets\ProCore\ProBuilder\About\Credits.txt" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/s191166/Documents/Lunar Duck Year/trunk/Mother Duck 1.2.2/MotherDuck/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
@@ -442,8 +448,14 @@
     <Reference Include="KDTree">
       <HintPath>C:/Users/s191166/Documents/Lunar Duck Year/trunk/Mother Duck 1.2.2/MotherDuck/Assets/3rdPartyAssets/ProCore/ProBuilder/Classes/ClassesLib/KDTree.dll</HintPath>
     </Reference>
+    <Reference Include="KdTreeLib">
+      <HintPath>C:/Users/s191166/Documents/Lunar Duck Year/trunk/Mother Duck 1.2.2/MotherDuck/Assets/3rdPartyAssets/ProCore/ProBuilder/Classes/ClassesLib/KdTreeLib.dll</HintPath>
+    </Reference>
     <Reference Include="pb_Stl">
       <HintPath>C:/Users/s191166/Documents/Lunar Duck Year/trunk/Mother Duck 1.2.2/MotherDuck/Assets/3rdPartyAssets/ProCore/ProBuilder/Classes/ClassesLib/pb_Stl.dll</HintPath>
+    </Reference>
+    <Reference Include="Poly2Tri">
+      <HintPath>C:/Users/s191166/Documents/Lunar Duck Year/trunk/Mother Duck 1.2.2/MotherDuck/Assets/3rdPartyAssets/ProCore/ProBuilder/Classes/ClassesLib/Poly2Tri.dll</HintPath>
     </Reference>
     <Reference Include="Triangle">
       <HintPath>C:/Users/s191166/Documents/Lunar Duck Year/trunk/Mother Duck 1.2.2/MotherDuck/Assets/3rdPartyAssets/ProCore/ProBuilder/Classes/ClassesLib/Triangle.dll</HintPath>

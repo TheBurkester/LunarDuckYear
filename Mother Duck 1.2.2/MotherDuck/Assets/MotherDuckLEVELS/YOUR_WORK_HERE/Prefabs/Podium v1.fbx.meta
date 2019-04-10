@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 30c08ec2397e4f2448f1ac6d83ea5458
+guid: 7b64a2d67920497418139f1976757361
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -8,7 +8,6 @@ ModelImporter:
     400000: Back_Mesh
     400002: //RootNode
     2100000: lambert1
-    2100002: lambert2
     2300000: Back_Mesh
     2300002: //RootNode
     3300000: Back_Mesh
