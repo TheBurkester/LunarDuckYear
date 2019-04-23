@@ -1,20 +1,20 @@
 fileFormatVersion: 2
-guid: e23f4510617ef9a4daa6c074ee393ef3
+guid: eec2e99fa534e224ba7b07b3e5091d31
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: pCube1
     100002: pCube2
-    100004: //RootNode
-    100006: pCube3
-    100008: pCube4
+    100004: pCube3
+    100006: pCube4
+    100008: //RootNode
     400000: pCube1
     400002: pCube2
-    400004: //RootNode
-    400006: pCube3
-    400008: pCube4
-    2100000: lambert1
-    2100002: lambert2
+    400004: pCube3
+    400006: pCube4
+    400008: //RootNode
+    2100000: lambert2
+    2100002: lambert1
     2300000: pCube1
     2300002: pCube2
     2300004: pCube3

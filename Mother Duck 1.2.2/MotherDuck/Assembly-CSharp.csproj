@@ -217,6 +217,7 @@
     <None Include="Assets\PostProcessing\Resources\Shaders\Bloom.shader" />
     <None Include="Assets\3rdPartyAssets\ShaderForge\Example Assets\Shaders\PixelRotator.shader" />
     <None Include="Assets\3rdPartyAssets\ShaderForge\Example Assets\Shaders\CustomLighting.shader" />
+    <None Include="Assets\MotherDuckLEVELS\YOUR_WORK_HERE\Meshes\Riley 4.9.2019\UrbanNightSky\Readme.txt" />
     <None Include="Assets\PostProcessing\Editor Resources\Monitors\VectorscopeRender.shader" />
     <None Include="Assets\PostProcessing\Resources\Shaders\EyeAdaptation.shader" />
     <None Include="Assets\3rdPartyAssets\ProCore\ProBuilder\Shader\pb_ScrollHighlight.shader" />
