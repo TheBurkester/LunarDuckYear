@@ -96,6 +96,7 @@
     <Compile Include="Assets\MotherDuck\Scripts\TimeRecorder.cs" />
     <Compile Include="Assets\MotherDuck\Scripts\Utils\RigidBodyPositionReset.cs" />
     <Compile Include="Assets\MotherDuck\Scripts\Utils\TriggerToggle.cs" />
+    <Compile Include="Assets\MotherDuckLEVELS\YOUR_WORK_HERE\Meshes\Riley 4.9.2019\Audio Stuff\FireWorksAudio.cs" />
     <Compile Include="Assets\PostProcessing\Runtime\Attributes\GetSetAttribute.cs" />
     <Compile Include="Assets\PostProcessing\Runtime\Attributes\MinAttribute.cs" />
     <Compile Include="Assets\PostProcessing\Runtime\Attributes\TrackballAttribute.cs" />
