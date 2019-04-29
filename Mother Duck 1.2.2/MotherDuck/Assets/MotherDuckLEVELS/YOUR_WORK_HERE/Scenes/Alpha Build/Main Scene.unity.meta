@@ -1,10 +1,18 @@
 fileFormatVersion: 2
 <<<<<<< .mine
+guid: 3cab904c4ceb1e344beb11c4240a52f3
+||||||| .r35
+guid: aab5b3c5b3a3d67428ad1df201059bf6
+timeCreated: 1484623195
+licenseType: Free
+=======
+<<<<<<< .mine
 guid: 651980d4702bcfd4fa146b5d5eea13df
 ||||||| .r35
 guid: aab5b3c5b3a3d67428ad1df201059bf6
 timeCreated: 1484623195
 licenseType: Free
+>>>>>>> .r61
 =======
 guid: 77311cb866371e14fb7f0007eaf81803
 >>>>>>> .r38
