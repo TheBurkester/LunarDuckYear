@@ -26,6 +26,10 @@ ModelImporter:
     2100004: arch_lambert6
     2100006: arch_lambert5
     2100008: Stage_Area_lambert4
+    2100010: blinn8
+    2100012: blinn4
+    2100014: blinn1
+    2100016: blinn3
     2300000: arch:Base2
     2300002: pCube1
     2300004: Stage_Area:Base2
