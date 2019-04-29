@@ -15,6 +15,10 @@ ModelImporter:
     400008: pCube4
     2100000: lambert1
     2100002: lambert2
+    2100004: lambert3
+    2100006: blinn1
+    2100008: blinn2
+    2100010: blinn3
     2300000: pCube1
     2300002: pCube2
     2300004: pCube3

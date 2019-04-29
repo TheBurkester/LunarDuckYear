@@ -1,17 +1,14 @@
 fileFormatVersion: 2
-guid: afdc5e78a6d3c00418d267268b3e817b
+guid: e66d2f51c28675e458722f47338f3f45
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: lambert1
-    2100002: lambert2
-    2100004: blinn1
+    2100000: Stage_Area_lambert4
     2300000: //RootNode
     3300000: //RootNode
-    4300000: pCube15
-    2186277476908879412: ImportLogs
+    4300000: Stage_Area:Base2
   externalObjects: {}
   materials:
     importMaterials: 1
