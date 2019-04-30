@@ -24,8 +24,11 @@ ModelImporter:
     400016: transform3
     400018: transform4
     2100000: lambert1
+    2100002: lambert2
     2300000: pCube11
+    2300002: //RootNode
     3300000: pCube11
+    3300002: //RootNode
     4300000: pCube11
   externalObjects: {}
   materials:
