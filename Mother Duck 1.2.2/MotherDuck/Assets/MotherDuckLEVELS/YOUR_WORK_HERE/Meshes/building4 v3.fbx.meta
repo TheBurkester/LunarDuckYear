@@ -1,26 +1,14 @@
 fileFormatVersion: 2
-guid: e348272cbe0f9164d8ed14ccaba6d4c5
+guid: ce1a0cac4c7f2d74e8adb7605be89680
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
-    100002: pCube1
-    100004: stairs:store4Stairs2
     400000: //RootNode
-    400002: pCube1
-    400004: stairs:store4Stairs2
-    2100000: lambert2
-    2100002: stairs_Glass1
-    2100004: building4_Mat_11_Concrete_1_LightGrey1
-    2300000: pCube1
-    2300002: stairs:store4Stairs2
-    2300004: //RootNode
-    3300000: pCube1
-    3300002: stairs:store4Stairs2
-    3300004: //RootNode
-    4300000: pCube1
-    4300002: stairs:store4Stairs2
-    4300004: building4:pCube1
+    2100000: building4_Mat_11_Concrete_1_LightGrey1
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: building4:pCube1
   externalObjects: {}
   materials:
     importMaterials: 1
